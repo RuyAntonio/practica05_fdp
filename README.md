@@ -1,2 +1,2 @@
-# practica05_fdp
+# practica5_fdp
 Práctica 05: Pseudocódigo
